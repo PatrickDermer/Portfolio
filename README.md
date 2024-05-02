@@ -22,7 +22,6 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 
 **Live Demo:** [Ninja Trilogy](https://www.roblox.com/games/16182536131/Ninja-Trilogy-Project)
 
-...
 
 ## Skills
 
@@ -34,7 +33,6 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 - **Service Champion**, Taco Bell, July 2021 - August 2021
   - **Description:** I provided courteous and welcoming customer service, made sure food is hot and on time, the kitchen, lobby, and restrooms are clean. I input orders, prepared items, and completed payments for customers using a register.
 
-...
 
 ## Education
 

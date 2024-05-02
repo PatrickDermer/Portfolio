@@ -1,7 +1,7 @@
 # Portfolio
 Welcome to my portfolio! This repository showcases my projects, skills, and experiences as a computer science major. Feel free to explore and get in touch if you have any questions or opportunities for collaboration.
 
-Projects
+[Projects]
 Title Screen
 Description: For the game “Title Screen” I incorporated a variety of elements often associated with platformer puzzle games. These mechanics include walking, jumping, picking up items, dropping items, and the ability to click on certain buttons and objects. The player character can pick up items by walking over them. These items are used in a variety of ways to progress through the game. One such item is the screwdriver, which is used to unscrew certain letters in the credits area. The primary antagonist of the game, dubbed the “Katamogiri,” steals the players items, forcing them to consider other approaches to completing the game. Another mechanic we incorporated was the ability to swap between different screens in the game, such as the options and credits screen.
 Technologies Used: Construct 3, Audacity, Photoshop, Paint.net, Fontforge

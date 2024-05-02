@@ -15,6 +15,7 @@ Ninja Trilogy
 Description: I created a closed community Naruto game on the ROBLOX platform that I never released to the public. I made it a permanent death game where if you die you lose most of your progress. It has weeks worth of time put in as the character has to progress the game through missions, and killing other players. When leveling up the player gets skill points that they can put into the skill tree. There are multiple game mechanics such as throwing kunai, fighting/air combat, wall climbing, tree jumping, parkour, a death system, and more.
 Technologies Used: Roblox Studio, Blender, Photoshop, Audacity
 Live Demo: https://www.roblox.com/games/16182536131/Ninja-Trilogy-Project
+
 ...
 
 Skills
@@ -23,6 +24,7 @@ Technologies/Frameworks: Blender, Visual Studio Code, Roblox Studio, Photoshop, 
 Experience
 Service Champion, Taco Bell, July 2021 - August 2021
 Description: I provided courteous and welcoming customer service, made sure food is hot and on time, the kitchen, lobby, and restrooms are clean. I input orders, prepared items, and completed payments for customers using a register.
+
 ...
 
 Education

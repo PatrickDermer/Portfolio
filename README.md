@@ -12,7 +12,7 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 
 **Technologies Used:** Construct 3, Audacity, Photoshop, Paint.net, Fontforge
 
-**Live Demo:** [Title Screen](https://www.construct.net/en)
+**Live Demo:** [Title Screen](https://www.construct.net/en) (Must Download Release to upload it and view the game)
 
 ### Ninja Trilogy
 

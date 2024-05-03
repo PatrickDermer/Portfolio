@@ -31,12 +31,12 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 ## Experience
 
 - **Service Champion**, Taco Bell, July 2021 - August 2021
-  - **Description:** GPA 3.5, AP Biology, AP Government, AP Computer Science, AP United States History, Color Guard Commander in JROTC, and Captain of the Arab Soccer Team.
+  - **Description:** I provided courteous and welcoming customer service, made sure food was hot and on time, the kitchen, lobby, and restrooms are clean. I input orders, prepared items, and completed payments for customers using a register.
 
 ## Education
 
 - **High School Diploma with Academic and Career Tech Endorsement**, Arab High School, December 2018 - May 2022
-  - **Description:** I have learned and am still learning multiple programming languages. I have taken on multiple math and science courses as well like calculus, and chemistry.
+  - **Description:** GPA 3.5, AP Biology, AP Government, AP Computer Science, AP United States History, Color Guard Commander in JROTC, and Captain of the Arab Soccer Team.
 
 - **Pursuing Bachelor's Degree, Computer Science**, University of Alabama in Huntsville, August 2022 - December 2026
   - **Description:** I have learned and am still learning multiple programming languages. I have taken on multiple math and science courses as well like calculus, and chemistry.
